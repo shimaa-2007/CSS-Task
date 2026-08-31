@@ -49,6 +49,6 @@ nti-css-task/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/nti-css-task.git
+   git clone https://github.com/shimaa-2007/CSS-Task.git
    ```
 2. Open `index.html` directly in your browser.
